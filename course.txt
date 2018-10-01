@@ -3,3 +3,4 @@ docker
 hive
 deep learning
 mathematics baisc concepts
+git hub
